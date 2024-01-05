@@ -1,0 +1,10 @@
+.bloop/
+.gradle/
+.gradle/
+.idea/
+.metals/
+.vscode/
+bin/
+build/
+
+.DS_Store
