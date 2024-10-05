@@ -1,6 +1,7 @@
-// Copyright (c) Tribufu. All Rights Reserved
+// Copyright (c) Tribufu. All Rights Reserved.
+// SPDX-License-Identifier: MIT
 
-package dev.mintaka;
+package com.tribufu.mintaka;
 
 //import org.junit.jupiter.api.Test;
 //import static org.junit.jupiter.api.Assertions.*;
