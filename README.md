@@ -1,6 +1,6 @@
 # Mintaka
 
-Shared library to create minecraft plugins and mods.
+Shared libraries to create minecraft mods and plugins.
 
 [![Maven][mvn-badge]][mvn-url]
 [![MIT License][mit-badge]][mit-url]
